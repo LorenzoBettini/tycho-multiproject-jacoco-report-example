@@ -15,6 +15,7 @@
 
 	<modules>
 		<module>example.plugin</module>
+		<module>example.tests</module>
 	</modules>
 
 	<build>
@@ -126,6 +127,11 @@
 		</pluginManagement>
 	</build>
 	<repositories>
+		<repository>
+			<id>neon</id>
+			<url>http://download.eclipse.org/releases/neon</url>
+			<layout>p2</layout>
+		</repository>
 		<repository>
 			<id>codehaus-snapshots</id>
 			<name>disable dead 'Codehaus Snapshots' repository, see https://bugs.eclipse.org/bugs/show_bug.cgi?id=481478</name>
