@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Plugin
-Bundle-SymbolicName: example.plugin
-Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: example.plugin1
+Bundle-Version: 0.0.1.qualifier
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Export-Package: example.plugin
+Export-Package: example.plugin1

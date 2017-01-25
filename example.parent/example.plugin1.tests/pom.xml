@@ -6,7 +6,7 @@
 		<artifactId>example.parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>example.plugin</artifactId>
-	<packaging>eclipse-plugin</packaging>
+	<artifactId>example.plugin1.tests</artifactId>
+	<packaging>eclipse-test-plugin</packaging>
 
 </project>
