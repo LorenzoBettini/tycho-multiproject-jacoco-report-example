@@ -16,6 +16,8 @@
 	<modules>
 		<module>example.plugin1</module>
 		<module>example.plugin1.tests</module>
+		<module>example.plugin2</module>
+		<module>example.plugin2.tests</module>
 	</modules>
 
 	<build>
