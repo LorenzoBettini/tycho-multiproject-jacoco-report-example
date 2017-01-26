@@ -10,7 +10,7 @@ public class MyClass1Test {
 
 	@Test
 	public void test() {
-		myClass.myMethod();
+		myClass.myMethod2(null);
 	}
 
 }
