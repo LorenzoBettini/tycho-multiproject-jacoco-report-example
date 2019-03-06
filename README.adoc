@@ -1,0 +1,5 @@
+== Eclipse Tycho Jacoco Example
+
+This example shows how to aggregate the jacoco coverage results of several plug-ins and test plug-ins into one project.
+
+See http://www.lorenzobettini.it/2017/02/jacoco-code-coverage-and-report-of-multiple-eclipse-plug-in-projects/ for more information.
